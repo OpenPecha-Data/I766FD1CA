@@ -1,0 +1,39 @@
+id: I766FD1CA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:29:56.712586'
+last_modified: '2022-06-19T04:29:56.712598'
+parser: null
+source_metadata:
+  title: Hagiography of Ngor mkhan chen Khang gsar dam pa rin po che Ngag dbang blo
+    gros gzhan phan snying po (1876–1952/53); Lamdre Lobshe, vol. nya, title no. 4
+  author: གདོང་ཐོག་བསྟན་པའི་རྒྱལ་མཚན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-09-09);
+    no pagination, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/584
+  bases:
+    0f47:
+      title: Hagiography of Ngor mkhan chen Khang gsar dam pa rin po che Ngag dbang
+        blo gros gzhan phan snying po (1876–1952/53); Lamdre Lobshe, vol. nya, title
+        no. 4
+      order: 1
+      base_file: 0f47.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
